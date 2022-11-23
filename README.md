@@ -45,7 +45,7 @@ CelebA has been utilized in different sectors such as generative networks [4-11]
 Papers [18-20] exploit the approach in SCAN. Jaiswal et al in [21] employs SCAN to pre-process their dataset. The works in [22-24] train SCAN to provide a comparison. Also, the paper in [25] utilizes this approach as a part of image composition experiments.
 
 
-###References:
+### References:
 [1] Higgins, I., Sonnerat, N., Matthey, L., Pal, A., Burgess, C.P., Bosnjak, M., Shanahan, M., Botvinick, M., Hassabis, D. and Lerchner, A., 2017. Scan: Learning hierarchical compositional visual concepts. arXiv preprint arXiv:1707.03389.[SCAN]
 [2] Charles Beattie, Joel Z. Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, Julian Schrittwieser, Keith Anderson, Sarah York, Max Cant, Adam Cain, Adrian Bolton, Stephen Gaffney, Helen King, Demis Hassabis, Shane Legg, and Stig Petersen. Deepmind lab. arXiv preprint arXiv:1612.03801, 2016.
 [3] Z. Liu, P. Luo, X. Wang, and X. Tang. Deep learning face attributes in the wild. ICCV, 2015.
