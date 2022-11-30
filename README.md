@@ -20,7 +20,7 @@ numpy
 By default, the working environment setting is `/data/hc/SCAN/` in `main.py` `--root_dir`, which should be modified for your convenience.
 This is directory is supposed to contain the dataset in `root_dir/dataset/`, and is where checkpoint files and output files will be saved.
 
-Dataset preparation is the same as [here](https://github.com/1Konny/FactorVAE)
+Dataset preparation is the same as [here](https://github.com/1Konny/FactorVAE).
 
 To initialize visdom:
 
