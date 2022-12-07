@@ -1,5 +1,5 @@
 # SCAN
-This is a pytorch reproduction of the paper [SCAN: Learning Hierarchical Compositional Visual Concepts, Higgins et al., ICLR 2018][SCAN]
+This is a pytorch reproduction of the paper [SCAN: Learning Hierarchical Compositional Visual Concepts, Higgins et al., ICLR 2018][SCAN].
 
 This implementation is based on the [implementation][beta-VAE] of β-VAE and [implimentation][DAE] of SCAN.
 The β-VAE model used in [DAE] is modified to utilize another DAE as reconstruction loss provider according to the paper.
